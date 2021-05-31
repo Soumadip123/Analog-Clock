@@ -1,0 +1,24 @@
+{
+  "name": "analog-clock",
+  "version": "1.0.0",
+  "description": "Analog Clock Using HTML, CSS &amp; Java Script.",
+  "main": "index.js",
+  "homepage": "https://Soumadip123.github.io/Analog-Clock",
+  "dependencies": {
+    "gh-pages": "^3.2.0",
+  "deploy": "gh-pages -d Analog-Clock"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soumadip123/Analog-Clock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soumadip123/Analog-Clock/issues"
+  }
+}
