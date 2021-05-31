@@ -11,7 +11,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "deply": "gh-pages -d Analog-Clock"
+    "deploy": "gh-pages -d Analog-Clock"
   },
   "repository": {
     "type": "git",
