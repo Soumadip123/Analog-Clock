@@ -1,11 +1,13 @@
-#clockContainer{  
+body{
+    background-color: rgb(0, 0, 0);
+}
+#clockContainer{
     position: relative;
     margin: auto;    
-    height: 40vw;
-    width: 40vw;
+    height: 45vw;
+    width: 45vw;
     background: url(clock.png) no-repeat;
-    background-size: 80%;                      /* 3 */
-    transform: translate(0, 50%)
+    background-size: 80%;
 }
 
 #hour, #minute, #second{
